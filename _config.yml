@@ -14,16 +14,16 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Minoru Dhananjaya  # Main Title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: An Adaptive Roboticist # Subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://minorudja.github.io/"
 
 github:
   username: minorudja # change to your GitHub username
@@ -38,7 +38,7 @@ social:
     - https://github.com/minorudja # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/minorudja
 
 # Site Verification Settings
 webmaster_verifications:
