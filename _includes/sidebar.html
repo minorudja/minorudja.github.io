@@ -1,13 +1,1 @@
-<!--
-  The Side Bar
--->
-
-<div id="sidebar">
-    <!-- home -->
-    <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
-      <a href="{{ '/' | relative_url }}" class="nav-link">
-        <i class="fa-fw fas fa-user ml-xl-3 mr-xl-3 unloaded"></i>
-        <span>{{ site.data.locales[site.lang].tabs.home | upcase }}</span>
-      </a>
-    </li>
-</div><!-- #sidebar -->
+{% assign home_icon = 'fas fa-user' %}  <!-- Force 'fa-user' for the Home tab -->
