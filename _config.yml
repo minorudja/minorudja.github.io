@@ -16,10 +16,10 @@ timezone: Europe/London
 
 title: Minoru Dhananjaya  # Main Title
 
-tagline: An Adaptive Roboticist # Subtitle
+tagline: A Passionate Roboticist # Subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  My Portfolio Webpage.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -27,6 +27,9 @@ url: "https://minorudja.github.io"
 
 github:
   username: minorudja # change to your GitHub username
+
+# twitter:
+#   username: <>            # change to your twitter username
 
 social:
   # Change to your full name.
