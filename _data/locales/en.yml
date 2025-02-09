@@ -10,9 +10,7 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home:
-    title: About
-    icon: fas fa-user
+  home: About
   projects: Projects
   publications: Publications
   news: News
