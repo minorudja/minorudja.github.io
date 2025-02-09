@@ -10,7 +10,9 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: About
+  home:
+    title: About
+    icon: fas fa-user
   projects: Projects
   publications: Publications
   news: News
@@ -47,7 +49,3 @@ not_found:
 notification:
   update_found: A new version of content is available.
   update: Update
-
-# navbar:
-#   home:
-#     icon: fas fa-user
