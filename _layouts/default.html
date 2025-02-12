@@ -24,7 +24,7 @@ layout: compress
         {% include topbar.html lang=lang %}
 
         <div class="row flex-grow-1">
-          <main aria-label="Main Content" class="col-12 px-md-4" style="max-width: 100%;">
+          <main aria-label="Main Content" class="col-12 px-md-4" style="max-width: 100%; text-align: justify;">
             {% if layout.refactor or layout.layout == 'default' %}
               {% include refactor-content.html content=content lang=lang %}
             {% else %}
