@@ -3,7 +3,7 @@ icon: fas fa-robot
 order: 2
 ---
 
-![Desktop View](/images/about/profile_pic.png){: width="190" height="190" .w-10 .left}
+![Desktop View](/images/projects/Project_1/project_icon.png){: width="190" height="190" .w-10 .left}
 **Semantic ORB-SLAM3: An Enhanced ORB-SLAM3 System with Real-time Object Detection and Dynamic Object Handling - 2023** 
 ***[[Project Page](https://github.com/minorudja){:target="_blank"} / [Code](https://github.com/minorudja){:target="_blank"} / [Slides](https://github.com/minorudja){:target="_blank"}]***<br/>
 *Minoru Dhananjaya J. A., Jonathan M. Aitken*<br/>
