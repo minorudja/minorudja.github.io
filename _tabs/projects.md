@@ -6,7 +6,7 @@ order: 2
 <!-- Project 1 -->
 <div style="display: flex; align-items: center; width: 100%;">
   <!-- Image on the Left -->
-  <img src="/images/projects/Project_1/project1_icon.png" width="190" height="190" style="margin-right: 20px;">
+  <img src="/images/projects/project_1/project_icon.png" width="190" height="190" style="margin-right: 20px;">
 
   <!-- Text on the Right -->
   <div style="flex: 1; text-align: justify;">
@@ -28,7 +28,7 @@ order: 2
 <!-- Project 2 -->
 <div style="display: flex; align-items: center; width: 100%;">
   <!-- Image on the Left -->
-  <img src="/images/projects/Project_2/project2_icon.jpg" width="190" height="190" style="margin-right: 20px;">
+  <img src="/images/projects/project_2/project_icon.jpg" width="190" height="190" style="margin-right: 20px;">
 
   <!-- Text on the Right -->
   <div style="flex: 1; text-align: justify;">
