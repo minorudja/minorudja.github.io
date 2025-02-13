@@ -23,3 +23,24 @@ order: 2
   </div>
 </div>
 
+<br>
+
+<!-- Project 2 -->
+<div style="display: flex; align-items: center; width: 100%;">
+  <!-- Image on the Left -->
+  <img src="/images/projects/Project_2/project_icon.jpg" width="190" height="190" style="margin-right: 20px;">
+
+  <!-- Text on the Right -->
+  <div style="flex: 1; text-align: justify;">
+    <strong>Autonomous Navigation and Exploration of Environment using Turtlebot3 Robot (2023)</strong>
+    <em>[
+      <a href="https://github.com/minorudja" target="_blank">Project Page</a> /
+      <a href="https://github.com/minorudja" target="_blank">Code</a> /
+      <a href="https://github.com/minorudja" target="_blank">Slides</a>
+    ]</em>
+    <br>
+    <em>Minoru Dhananjaya J. A., Joshua, Weibin, Huihang Guo, Lin Cao</em>
+    <br>
+    Programmed a TurtleBot3 Waffle robot for seamless navigation and exploration within a bounded environment. Utilized Python and ROS to implement an autonomous navigation algorithm, integrating LiDAR and IMU sensors. Developed an efficient PID controller for wall following and obstacle avoidance, and incorporated ORB-SLAM3 to enable the generation of a detailed environmental map.
+  </div>
+</div>
